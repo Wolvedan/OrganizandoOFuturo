@@ -2,7 +2,7 @@
 
 :root {
   --cor-de-fundo: #0606fa;
-  --verde: #fc0000;
+  --vermelho: #fc0000;
   --branco: #FFFFFF;
   --botao-ativo: #09f73d;
   --botao-inativo: rgba(0, 255, 255, 0.5);
@@ -32,5 +32,5 @@ body {
 }
 
 .titulo-principal span{
-    color: var(--verde);
+    color: var(--vermelho);
 }
