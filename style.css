@@ -7,3 +7,7 @@
     --botao-inativo: rgba(146, 137, 241, 0.5);
     --texto-fundo: rgba(138, 138, 139, 0.3);
 }
+
+body{
+    background-color: var(--cor-de-fundo);
+}
